@@ -1,3 +1,3 @@
-# JS
+# JS - OOP
 
-Aqui mostro um pouco do uso de um OOP - Object Oriented Programming
+Aqui mostro um pouco do uso de um Object Oriented Programming
